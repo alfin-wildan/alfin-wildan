@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm a student from SMK Wikrama Bogor<br>🎯 Goals: I want to be a Professional BackEnd Developer</p>
+<p align="left">📚 I'm a student from SMK Wikrama Bogor<br>🎯 Goals: I want to be BackEnd Developer</p>
 
 ###
 
